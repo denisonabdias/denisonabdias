@@ -1,10 +1,10 @@
 ## Olá, Eu sou Denison Abdias ✌🏾
 
-- 💙 Sou filho do Eterno, pai da Laís e esposo da Juliana (Isto é o que mais amo!)
-- 💼 Hoje trabalho com Planejamento de Receitas e Custos na YDUQS (Estácio, Wyden, Ibmec, Idomed)
-- 📊 Tenho uma consultoria de Business Intelligence - Planejei Consultoria
-- 📚 Estudo Business Intelligence, Data Science e Inteligência Artifical
-- 💻 Ministro treinamentos, cursos e mentorias de ciência de Dados com foco em finanças
+- 💙 Antes de tudo sou filho do Eterno, pai da Laís e esposo da Juliana (E isto é o que mais amo!)
+- 💼 Mais de 20 de experiência liderando equipes de Planejamento Financeiro  em empresas como YDUQS (Estácio, Wyden, Ibmec, Idomed) e Enforce (BTG Pactual).
+- 📊 Atuo como Business Phartner em Planejamento Financeiro e BI - Planejei Consultoria Fiannceira Ltda.
+- 📚 Bacharel em Administração de Empresas com MBA Executivo em Finanças Corporativas e Big Data pelo Ibmec.
+- 💻 Por fim, tenho paixão por aprender e ensinar e por isso atuo como Instrutor Técnico de BI Fiancneiro em treinamentos in company, cursos e mentorias.
 - 😄 Pronouns: Ele/Dele
 <Div style="Display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
